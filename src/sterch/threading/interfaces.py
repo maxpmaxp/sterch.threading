@@ -1,13 +1,12 @@
 ### -*- coding: utf-8 -*- #############################################
 # Разработано компанией Стерх (http://sterch.net/)
-# Все права защищены, 2008
+# Все права защищены, 2010
 #
 # Developed by Sterch (http://sterch.net/)
-# All right reserved, 2008
+# All right reserved, 2010
 #######################################################################
 """Interfaces for the ZTK based sterch.threading package
 
-$Id: interfaces.py 16665 2010-12-03 14:07:39Z maxp $
 """
 __author__  = "Polshcha Maxim (maxp@sterch.net)"
 __license__ = "ZPL" 
