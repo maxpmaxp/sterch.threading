@@ -49,7 +49,7 @@ def alltests():
     return suite
 
 setup( name='sterch.threading',
-    version='0.1.1a',
+    version='0.1.1',
     url='http://pypi.sterch.net/sterch.threading',
     license='ZPL 2.1',
     description='Provides interfaces and ZCML directives for standard threading library objects',
@@ -79,7 +79,7 @@ setup( name='sterch.threading',
                         'zope.schema',
                         'zope.configuration',
                         'zope.component',
-                        'zope.app.component',
+                        'zope.security',
                         ],
     extras_require={'test': ['zope.testing'],},                        
     test_suite='__main__.alltests',
