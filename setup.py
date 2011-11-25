@@ -49,7 +49,7 @@ def alltests():
     return suite
 
 setup( name='sterch.threading',
-    version='0.1.1',
+    version='0.1.2',
     url='http://pypi.sterch.net/sterch.threading',
     license='ZPL 2.1',
     description='Provides interfaces and ZCML directives for standard threading library objects',
